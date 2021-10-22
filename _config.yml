@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Atrisha Sarkar"
+  name             : "Atrisha Sarkar <br> (she/her)"
   avatar           : "profile.png"
-  bio              : "PhD Candidate \n\n\n David R Cheriton School of Computer Science \n\n\n University of Waterloo"
+  bio              : "	PhD Candidate <br> David R Cheriton School of Computer Science <br> University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
