@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Atrisha Sarkar"
   avatar           : "profile.png"
-  bio              : |PhD Candidate 
-                      David R Cheriton School of Computer Science
-                      University of Waterloo
+  bio              : "PhD Candidate \n\n\n David R Cheriton School of Computer Science \n\n\n University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
