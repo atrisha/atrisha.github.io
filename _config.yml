@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Atrisha Sarkar"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at David R Cheriton School of Computer Science, University of Waterloo"
+  bio              : |PhD Candidate 
+                      David R Cheriton School of Computer Science
+                      University of Waterloo
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -90,13 +92,13 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://git.uwaterloo.ca/a9sarkar"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  gitlab           : "https://git.uwaterloo.ca/a9sarkar"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
