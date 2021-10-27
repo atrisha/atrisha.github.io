@@ -22,7 +22,7 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 -======
 
-**(Oct 2021)** Workshop paper on a taxonomy towards better understanding of decisions made by an autonomous vehicle planner. *A taxonomy of strategic human interactions in traffic conflicts* [arXiv link](https://arxiv.org/pdf/2109.13367)
+**(Oct 2021)** Paper on a taxonomy towards better understanding of decisions made by an autonomous vehicle planner. *A taxonomy of strategic human interactions in traffic conflicts* [arXiv link](https://arxiv.org/pdf/2109.13367) accepted for NeurIPS 2021 Cooperative AI Workshop.
 
 **(Sept 2021)** Paper on application of general theories of behavioral game theory, such as level-k,   for dynamic games. *Generalized dynamic cognitive hierarchy models for strategic driving behavior* [arXiv link](https://arxiv.org/pdf/2109.09861) [code](https://git.uwaterloo.ca/a9sarkar/repeated_driving_games)
 

@@ -11,13 +11,14 @@ author_profile: true
 
  Kahn, Maximilian, **Sarkar, Atrisha**, and Krzysztof Czarnecki. "I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames." arXiv preprint arXiv:2109.09807 (2021).
 
- **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. “A taxonomy of strategic human interactions in traffic conflicts.” arXiv preprint arXiv:2109.13367 (2021).
 
 Marko Ilievski, Sean Sedwards, Ashish Gaurav, Aravind Balakrishnan, **Atrisha Sarkar,** Jaeyoung Lee, Frédéric Bouchard, Ryan De Iaco, Krzysztof Czarnecki "Design Space of Behaviour Planning for Autonomous Driving." *arXiv* preprint arXiv:1908.07931 (2019).
 
-### Conferences:
+### Conferences and Workshops:
 
 **Sarkar, Atrisha,** and Krzysztof Czarnecki. "Solution Concepts in Hierarchical Games Under Bounded Rationality With Applications to Autonomous Driving." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021. (acceptance rate: 21%)
+
+ **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. “A taxonomy of strategic human interactions in traffic conflicts.” arXiv preprint arXiv:2109.13367, NeurIPS 2021 Cooperative AI Workshop.
 
 **Sarkar, Atrisha**, and Krzysztof Czarnecki. "A behavior driven approach for sampling rare event situations for autonomous vehicles." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS). IEEE, 2019.
 
