@@ -16,9 +16,9 @@ Marko Ilievski, Sean Sedwards, Ashish Gaurav, Aravind Balakrishnan, **Atrisha Sa
 
 ### Conferences and Workshops:
 
-**Sarkar, Atrisha,** and Krzysztof Czarnecki. "Solution Concepts in Hierarchical Games Under Bounded Rationality With Applications to Autonomous Driving." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6. 2021. (acceptance rate: 21%)
+**Sarkar, Atrisha,** and Krzysztof Czarnecki. "Solution Concepts in Hierarchical Games Under Bounded Rationality With Applications to Autonomous Driving." *Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6.* (AAAI) 2021. (acceptance rate: 21%)
 
- **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. “A taxonomy of strategic human interactions in traffic conflicts.” arXiv preprint arXiv:2109.13367, NeurIPS 2021 Cooperative AI Workshop.
+ **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. “A taxonomy of strategic human interactions in traffic conflicts.” arXiv preprint arXiv:2109.13367, *NeurIPS 2021 Cooperative AI Workshop*.
 
 **Sarkar, Atrisha**, and Krzysztof Czarnecki. "A behavior driven approach for sampling rare event situations for autonomous vehicles." *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS). IEEE, 2019.
 
