@@ -22,6 +22,8 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 -======
 
+**(Jan 2021)** Our paper *I  Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of  Strategic Planners for Autonomous Vehicles Using Hypergames* (with Maximilian Kahn and Krzysztof Czarnecki) accepted for ICRA 2022.
+
 **(Dec 2021)** Our paper *Generalized dynamic cognitive hierarchy models for strategic driving behavior* (with Kate Larson and Krzysztof Czarnecki) accepted for AAAI 2022.
 
 **(Oct 2021)** Paper on a taxonomy towards better understanding of decisions made by an autonomous vehicle planner. *A taxonomy of strategic human interactions in traffic conflicts* [arXiv link](https://arxiv.org/pdf/2109.13367) accepted for NeurIPS 2021 Cooperative AI Workshop.

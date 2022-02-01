@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**(Fall 2021)** Co-instructing and assisting in the Fall ethics workshop for Data Science and AI.
+**(Fall 2021)** Co-instructed the Fall ethics workshop for Masters in Data Science and AI students with Prof. Maura Grossman.
 
 **(Spring 2021)** Taught a seminar class on 'Platform capitalism' for CS 492.
 

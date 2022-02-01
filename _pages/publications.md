@@ -5,16 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprints:
+### Conferences and Workshops:
 
 **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Generalized dynamic cognitive hierarchy models for strategic driving behavior." arXiv preprint arXiv:2109.09861 (accepted for AAAI 2022). 
 
- Kahn, Maximilian, **Sarkar, Atrisha**, and Krzysztof Czarnecki. "I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames." arXiv preprint arXiv:2109.09807 (2021).
-
-
-Marko Ilievski, Sean Sedwards, Ashish Gaurav, Aravind Balakrishnan, **Atrisha Sarkar,** Jaeyoung Lee, Frédéric Bouchard, Ryan De Iaco, Krzysztof Czarnecki "Design Space of Behaviour Planning for Autonomous Driving." *arXiv* preprint arXiv:1908.07931 (2019).
-
-### Conferences and Workshops:
+Kahn, Maximilian, **Sarkar, Atrisha**, and Krzysztof Czarnecki. "I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames." arXiv preprint arXiv:2109.09807 (accepted for ICRA 2022).
 
 **Sarkar, Atrisha,** and Krzysztof Czarnecki. "Solution Concepts in Hierarchical Games Under Bounded Rationality With Applications to Autonomous Driving." *Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 35. No. 6.* (AAAI) 2021. (acceptance rate: 21%)
 
@@ -34,5 +29,8 @@ Dina Zayan, **Atrisha Sarkar,** Michał Antkiewicz, Rita Suzana Pitangueira Maci
 
 Jianmei Guo, Dingyu Yang, Norbert Siegmund, Sven Apel, **Atrisha Sarkar,** Pavel Valov, Krzysztof Czarnecki, Andrzej Wasowski, Huiqun Yu “Data-efficient performance learning for configurable systems.” *Empirical Software Engineerin*g 23.3 (2018): 1826-1867.
 
+### Preprints:
+
+Marko Ilievski, Sean Sedwards, Ashish Gaurav, Aravind Balakrishnan, **Atrisha Sarkar,** Jaeyoung Lee, Frédéric Bouchard, Ryan De Iaco, Krzysztof Czarnecki "Design Space of Behaviour Planning for Autonomous Driving." *arXiv* preprint arXiv:1908.07931 (2019).
 
 
