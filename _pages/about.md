@@ -22,7 +22,9 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 -======
 
-**(Jan 2021)** Our paper *I  Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of  Strategic Planners for Autonomous Vehicles Using Hypergames* (with Maximilian Kahn and Krzysztof Czarnecki) accepted for ICRA 2022.
+[//]: # **(Feb 2022)** Starting Sept'22 I will be joining Schwartz Reisman Institute for Technology and Society at University of Toronto as a postdoctoral fellow under Prof. Gillian Hadfield.
+
+**(Jan 2022)** Our paper *I  Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of  Strategic Planners for Autonomous Vehicles Using Hypergames* (with Maximilian Kahn and Krzysztof Czarnecki) accepted for ICRA 2022.
 
 **(Dec 2021)** Our paper *Generalized dynamic cognitive hierarchy models for strategic driving behavior* (with Kate Larson and Krzysztof Czarnecki) accepted for AAAI 2022.
 

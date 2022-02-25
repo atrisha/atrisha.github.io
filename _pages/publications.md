@@ -7,7 +7,7 @@ author_profile: true
 
 ### Conferences and Workshops:
 
-**Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Generalized dynamic cognitive hierarchy models for strategic driving behavior." arXiv preprint arXiv:2109.09861 (accepted for AAAI 2022). 
+**Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Generalized dynamic cognitive hierarchy models for strategic driving behavior." arXiv preprint arXiv:2109.09861 *2022 AAAI Conference on Artificial Intelligence* (acceptance rate 14.2%, main track). 
 
 Kahn, Maximilian, **Sarkar, Atrisha**, and Krzysztof Czarnecki. "I Know You Can't See Me: Dynamic Occlusion-Aware Safety Validation of Strategic Planners for Autonomous Vehicles Using Hypergames." arXiv preprint arXiv:2109.09807 (accepted for ICRA 2022).
 
