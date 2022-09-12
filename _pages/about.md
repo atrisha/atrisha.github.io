@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a PhD candidate in Computer Science at University of Waterloo, Canada.
-My research focuses broadly on the interaction between humans and AI driven autonomous systems, such as, self-driving cars or autonomous vehicles (AVs). 
+Hi, I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
+) at the University of Toronto under [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-hadfield/). 
 
-The motivation of my research is making AI systems safe and equitable for real world applications, especially when they interact with humans. Specifically, I am interested in answering 
+My research focuses broadly on multi-agent systems, game theory, and the interaction between AI and human behaviour. 
 
-- How we can model multi-agent environments where some of the agents are humans acting in a bounded-rational and semi co-operative setting.
+I received my PhD from David R Cheriton School of Computer Science at the University of Waterloo. During my PhD, I worked in the field of autonomous vehicles, and the research developed game-theoretic models of naturalistic human driving behaviour that are useful in many phases of AV development, including testing, verification, and behaviour planning of autonomous vehicles. 
+
+The motivation of my research is to make AI systems safe and equitable, both at the level of a specific system as well as society. Specifically, I am interested in answering 
+
+- How to model multi-agent environments where some of the agents are humans acting in a bounded-rational and semi co-operative setting.
 - What assumptions an AI agent makes about other humans when we design these systems, and the impacts of those assumptions.
-- How we can communicate decisions made by an AI in an way that is understood by people including governments, regulators, as well as people without deep technical expertise.
+- How to communicate decisions made by an AI in a way that is understood by people including governments, regulators, as well as people without deep technical expertise.
 
 Prior to starting grad school, I spent eight years working in industry, most of which was at IBM Software Labs in India.
 

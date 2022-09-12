@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Atrisha Sarkar"
 title_separator          : "-"
 name                     : &name "Atrisha Sarkar"
-description              : &description "PhD Candidate at David R Cheriton School of Computer Science, University of Waterloo"
+description              : &description "Postdoctoral fellow at Schwartz Reisman Institute for Technology and Society, University of Toronto"
 url                      : https://atrisha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atrisha/atrisha.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Atrisha Sarkar <br> (she/her)"
   avatar           : "profile.png"
-  bio              : "	PhD Candidate <br> David R Cheriton School of Computer Science <br> University of Waterloo"
+  bio              : "	Postdoctoral fellow <br> Schwartz Reisman Institute for Technology and Society <br> University of Toronto"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "atrisha"
   google_plus      :
   keybase          :
   instagram        :
