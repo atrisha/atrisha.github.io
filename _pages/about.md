@@ -11,7 +11,7 @@ redirect_from:
 Hi, I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
 ) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-hadfield/)'s group. 
 
-My research focuses on multi-agent systems, game theory, and the computational tools required to ensure safety and fairness of AI applications, both at the level of a specific application as well as society. I am interested in studying conflicts that may arise as AI integrates further into human societies, and believe in taking a multi-disciplinary approach to resolving that problem. During my PhD I focused on one such domain: autonomous vehicles and their interaction with human drivers. 
+My research focuses on multi-agent systems, game theory, and the computational tools required to ensure safety and fairness of AI applications, both at the level of a specific application as well as society. I am interested in studying conflicts that may arise as AI integrates further into human societies, and believe in taking a multi-disciplinary approach to resolving that problem. 
 
 Through my research, I am interested in answering
 
