@@ -26,6 +26,8 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 -======
 
+**(Dec 2022)** Our paper *Revealed multi-objective utility aggregation in human driving* (with Kate Larson and Krzysztof Czarnecki) accepted for AAMAS 2023.
+
 **(Feb 2022)** Starting Sept'22 I will be joining [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
 ) at University of Toronto as a postdoctoral fellow under Prof. Gillian Hadfield.
 
