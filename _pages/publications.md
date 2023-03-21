@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Conferences and Workshops:
+### Peer-reviewed conferences and workshops:
 
 **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Revealed Multi-Objective Utility Aggregation in Human Driving." arXiv preprint arXiv:2303.07435 *2023 Autononous Agents and Multi-Agent Systems (AAMAS 2023)*
 
