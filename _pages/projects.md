@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Completed Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -32,7 +32,21 @@ author_profile: true
 </style>
 </head>
 <body>
+<h1>Ongoing</h1>
+<h2>Normative persuasion in online social systems</h2>
 
+<div class="row">
+  <div class="column2" style="background-color:#FFFFFF;">
+<a href="https://www.dropbox.com/s/zgf2hyizmgyfum8/Normative_information_design_for_online_social_systems_2.pdf?dl=0">Working paper</a>
+  </div>
+  <div class="column1" style="background-color:#FFFFFF;">
+  <p>In online social communities, influencers, moderators of communities,new media figures, etc., hold a privileged position on accountof their visibility, and have been referred to as norm entrepreneursbecause of their ability to broadcast their views about right andwrong. In recent years, there have been calls to consider regulationand reevaluate their roles and responsibilities towards the healthof our social institutions. However, any act of regulation needsfurther understanding of their macro-level impact on society andexpectation of an ideal behaviour. In this project, we take a step inthat direction by formalising the following question. What shouldbe the ideal behaviour of such highly visible entities towards mitigatingadverse societal phenomena such as opinion polarisation.
+We refer to such entities as information stewards and answer theabove question by elaborating the role of descriptive norms within a Bayesian persuasion framework.   
+
+This question is importantfor lawmakers and platform designers alike since both need insightinto an ideal behaviour expected from information stewards aspart of any legislative process and evaluating the effect of platformdesign changes, respectively</p>
+  </div>
+</div>
+<h1>Completed</h1>
 <h2>A generalized cognitive hierarchy model for dynamic games</h2>
 
 <div class="row">

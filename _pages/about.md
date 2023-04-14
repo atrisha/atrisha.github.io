@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
-) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-hadfield/)'s group. 
+I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
+) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-hadfield/)'s group and affiliated with the Vector Institute of Artificial Intelligence.
 
-My research focuses on multi-agent systems, game theory, and the computational tools required to ensure safety and fairness of AI applications, both at the level of a specific application as well as society. I am interested in studying conflicts that may arise as AI integrates further into human societies, and believe in taking a multi-disciplinary approach to resolving that problem. 
+My research focuses on multi-agent systems, empirical game theory, and other computational methods for AI safety; both at the level of a specific application as well as society. 
 
-Through my research, I am interested in answering
+My research broadly covers the following themes:
 
-- What are the methodological challenges in modelling multi-agent environments where some of the agents act in a possibly boundedly rational and/or a semi co-operative setting?
-- What assumptions should an AI agent make about other humans during interactions? What are the implications of those assumptions?
-- How can we communicate decisions made by an AI in a way that is understood by governments, regulators, as well as society at large?
+- Theories of bounded rationality for human-AI interactions.
+- Role of norms, beliefs, and information in 'AI and society' (e.g., online social systems)
+- Computational models for safety validation of automated systems that interact with humans (e.g. self-driving cars).
 
 I received my PhD from David R Cheriton School of Computer Science at the University of Waterloo. I developed game-theoretic models of naturalistic human driving behaviour that can capture the diversity of human driving, as well as augment them with rare and edge-case scenarios often not observed in the observational data. These methods are useful in several phases of autonomous vehicle development, including testing, verification, and behaviour planning. You can check out my thesis [here](https://uwspace.uwaterloo.ca/handle/10012/18751). 
 
@@ -25,6 +25,8 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 
 News
 -======
+
+**(Feb 2023)** New [working paper](https://www.dropbox.com/s/zgf2hyizmgyfum8/Normative_information_design_for_online_social_systems_2.pdf?dl=0) on information stewards and normative persuasion in online social systems.
 
 **(Dec 2022)** Our paper *Revealed multi-objective utility aggregation in human driving* (with Kate Larson and Krzysztof Czarnecki) accepted for AAMAS 2023.
 
