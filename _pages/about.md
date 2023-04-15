@@ -11,15 +11,13 @@ redirect_from:
 I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
 ) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-hadfield/)'s group and affiliated with the Vector Institute of Artificial Intelligence.
 
-My research focuses on multi-agent systems, empirical game theory, and other computational methods for AI safety; both at the level of a specific application as well as society. 
+My research focuses on multi-agent systems, empirical game theory, and other computational methods for AI safety; both at the level of a specific application as well as society. Often this falls under the umbrella of [Cooperative AI](https://arxiv.org/pdf/2012.08630.pdf?utm_medium=referral&utm_source=idealist) spanning the following themes:
 
-My research broadly covers the following themes:
-
-- Theories of bounded rationality for human-AI interactions.
+- Theories of bounded rationality and methods of modelling behaviour for human-AI interactions.
 - Role of norms, beliefs, and information in 'AI and society' (e.g., online social systems)
-- Computational models for safety validation of automated systems that interact with humans (e.g. self-driving cars).
+- Safety of automated systems that interact with humans (e.g. self-driving cars).
 
-I received my PhD from David R Cheriton School of Computer Science at the University of Waterloo. I developed game-theoretic models of naturalistic human driving behaviour that can capture the diversity of human driving, as well as augment them with rare and edge-case scenarios often not observed in the observational data. These methods are useful in several phases of autonomous vehicle development, including testing, verification, and behaviour planning. You can check out my thesis [here](https://uwspace.uwaterloo.ca/handle/10012/18751). 
+I received my PhD from David R Cheriton School of Computer Science at the University of Waterloo.  You can check out my thesis [here](https://uwspace.uwaterloo.ca/handle/10012/18751). 
 
 Prior to starting grad school, I spent eight years working in industry, most of which was at IBM Software Labs in India.
 
