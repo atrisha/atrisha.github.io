@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
-) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-hadfield/)'s group and affiliated with the Vector Institute of Artificial Intelligence.
+) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-hadfield/)'s group and affiliated with the Vector Institute for Artificial Intelligence.
 
 My research focuses on multi-agent systems, empirical game theory, and other computational methods for AI safety; both at the level of a specific application as well as society. Often this falls under the umbrella of [Cooperative AI](https://arxiv.org/pdf/2012.08630.pdf?utm_medium=referral&utm_source=idealist) spanning the following themes:
 
-- Theories of bounded rationality and methods of modelling behaviour for human-AI interactions.
+- Theories of bounded rationality and methods for modelling behaviour for human-AI interactions.
 - Role of norms, beliefs, and information in 'AI and society' (e.g., online social systems)
 - Safety of automated systems that interact with humans (e.g. self-driving cars).
 
