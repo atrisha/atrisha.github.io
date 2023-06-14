@@ -24,6 +24,10 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 -======
 
+**(June 2023)** I will be at CHAI (Center for Human-Compatible Artificial Intelligence) workshop in California, USA.
+
+**(May-June 2023)** I will be at AAMAS 2023 in London, UK.
+
 **(Feb 2023)** New [working paper](https://www.dropbox.com/s/zgf2hyizmgyfum8/Normative_information_design_for_online_social_systems_2.pdf?dl=0) on information stewards and normative persuasion in online social systems.
 
 **(Dec 2022)** Our paper *Revealed multi-objective utility aggregation in human driving* (with Kate Larson and Krzysztof Czarnecki) accepted for AAMAS 2023.
