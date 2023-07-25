@@ -24,6 +24,8 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 -======
 
+**(July 2023)** I gave an invited talk at Cooperative AI foundation on normative systems as a research agenda for cooperative AI. [Slides](https://www.dropbox.com/scl/fi/xuzibe27s5e7k51isp387/Atrisha_CAIF_retreat_presentation.pdf?rlkey=93r6guwmf5vir5ivxb74of1rt&dl=0)
+
 **(June 2023)** I will be at CHAI (Center for Human-Compatible Artificial Intelligence) workshop in California, USA.
 
 **(May-June 2023)** I will be at AAMAS 2023 in London, UK.
