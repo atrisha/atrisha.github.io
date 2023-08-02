@@ -23,8 +23,9 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 
 News
 -======
+**(Aug 2023)** I will be at the annual conference of the Society for Institutional and Organizational Economics (SIOE) *workshop-ing* our paper on norms and information stewarding. Frankfurt, Germany.
 
-**(July 2023)** I gave an invited talk at Cooperative AI foundation on normative systems as a research agenda for cooperative AI. [Slides](https://www.dropbox.com/scl/fi/xuzibe27s5e7k51isp387/Atrisha_CAIF_retreat_presentation.pdf?rlkey=93r6guwmf5vir5ivxb74of1rt&dl=0)
+**(July 2023)** I gave an invited talk at Cooperative AI foundation on normative systems as a research agenda for cooperative AI foundation. London, UK. [Slides](https://www.dropbox.com/scl/fi/xuzibe27s5e7k51isp387/Atrisha_CAIF_retreat_presentation.pdf?rlkey=93r6guwmf5vir5ivxb74of1rt&dl=0)
 
 **(June 2023)** I will be at CHAI (Center for Human-Compatible Artificial Intelligence) workshop in California, USA.
 
