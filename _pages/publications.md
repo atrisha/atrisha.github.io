@@ -10,7 +10,7 @@ author_profile: true
 
 ### Peer-reviewed conferences and workshops:
 
-**Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Revealed Multi-Objective Utility Aggregation in Human Driving." arXiv preprint arXiv:2303.07435 *2023 Autononous Agents and Multi-Agent Systems (AAMAS 2023)*
+**Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Revealed Multi-Objective Utility Aggregation in Human Driving." arXiv preprint arXiv:2303.07435 *2023 Autononous Agents and Multi-Agent Systems (AAMAS 2023)* (acceptance rate 23%, full paper).
 
 **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Generalized dynamic cognitive hierarchy models for strategic driving behavior." arXiv preprint arXiv:2109.09861 *2022 AAAI Conference on Artificial Intelligence (AAAI 2022)* (acceptance rate 14.2%, main track). 
 
