@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Working papers:
 
-**Sarkar, Atrisha**, Gillian K. Hadfield. "Information stewards and normative persuasion in online social systems" https://bit.ly/information_steward *Society for Institutional and Organizational Economics (SIOE) 2023*
+**Sarkar, Atrisha**, Gillian K. Hadfield. "Normative institutions and opinion stewarding", *Earlier version presented at Society for Institutional and Organizational Economics (SIOE) 2023*. [Paper](https://bit.ly/information_steward)
 
 ### Peer-reviewed conferences and workshops:
 
