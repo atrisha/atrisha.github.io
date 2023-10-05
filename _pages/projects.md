@@ -33,17 +33,14 @@ author_profile: true
 </head>
 <body>
 <h1>Ongoing</h1>
-<h2>Normative persuasion in online social systems</h2>
+<h2>Normative institutions in online social systems</h2>
 
 <div class="row">
   <div class="column2" style="background-color:#FFFFFF;">
-<a href="https://www.dropbox.com/s/zgf2hyizmgyfum8/Normative_information_design_for_online_social_systems_2.pdf?dl=0">Working paper</a>
+<a href="https://bit.ly/information_steward">Working paper</a>
   </div>
   <div class="column1" style="background-color:#FFFFFF;">
-  <p>In online social communities, influencers, moderators of communities,new media figures, etc., hold a privileged position on accountof their visibility, and have been referred to as norm entrepreneursbecause of their ability to broadcast their views about right andwrong. In recent years, there have been calls to consider regulationand reevaluate their roles and responsibilities towards the healthof our social institutions. However, any act of regulation needsfurther understanding of their macro-level impact on society andexpectation of an ideal behaviour. In this project, we take a step inthat direction by formalising the following question. What shouldbe the ideal behaviour of such highly visible entities towards mitigatingadverse societal phenomena such as opinion polarisation.
-We refer to such entities as information stewards and answer theabove question by elaborating the role of descriptive norms within a Bayesian persuasion framework.   
-
-This question is importantfor lawmakers and platform designers alike since both need insightinto an ideal behaviour expected from information stewards aspart of any legislative process and evaluating the effect of platformdesign changes, respectively</p>
+  <p>Human societies throughout history have demonstrated a universal capacity to build emergent formal and informal institutions to solve large-scale cooperation problems. However, theories of collective behaviour in large online social systems have largely overlooked the role of informal institutions, such as political influencers, opinion leaders, and partisan media. In this paper, we develop a framework of _institutional stewarding_, which uses a game-theoretic underpinning of normative institutions as coordinators of decentralized norm enforcement. We show that many empirically observed phenomena, such as the spiral of silence and false polarization, can be explained through a process of opinion stewarding by informal institutions with different incentives and strategic choices made by a heterogeneous population on whether to express their normative opinions. The model also provides insights into the limits of this institutional capacity. In particular, we show that the capacity of institutions to mitigate adverse social outcomes depends on multiple factors, such as how far institutions can deviate from prevailing community beliefs and the presence of other strategic institutions in the environment. This project aims to build a theory based on institutions, norms, and individual incentives for better design of online social interaction platforms.</p>
   </div>
 </div>
 <h1>Completed</h1>
