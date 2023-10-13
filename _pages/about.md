@@ -22,7 +22,8 @@ I received my PhD from David R Cheriton School of Computer Science at the Univer
 Prior to starting grad school, I spent eight years working in industry, most of which was at IBM Software Labs in India.
 
 News
--======
+=======
+
 **(Sep 2023)** New version of our working paper out -- with new results and insights on opinion and rhetoric expression in online social systems. [Paper](https://bit.ly/information_steward)
 
 **(Aug 2023)** I will be at the annual conference of the Society for Institutional and Organizational Economics (SIOE) *workshoping* our paper on norms and information stewarding. Frankfurt, Germany.
