@@ -24,7 +24,9 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 =======
 
-**(Sep 2023)** New version of our working paper out -- with new results and insights on opinion and rhetoric expression in online social systems. [Paper](https://bit.ly/information_steward)
+**(Sep 2023)** New version of our working paper out -- with new results and insights on opinion and rhetoric expression in online social systems. Main takeaway: (Normative) "Institutions matter" - in online social systems too. [Paper](https://bit.ly/information_steward)
+
+**(Sep 2023)** Attended the NBER Economics of Artificial Intelligence Conference, Fall 2023. Toronto. Canada.
 
 **(Aug 2023)** I will be at the annual conference of the Society for Institutional and Organizational Economics (SIOE) *workshoping* our paper on norms and information stewarding. Frankfurt, Germany.
 
