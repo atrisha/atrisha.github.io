@@ -24,7 +24,8 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 =======
 
-**(Sep 2023)** New version of our working paper out -- with new results and insights on opinion and rhetoric expression in online social systems. Main takeaway: "Institutions matter" - in online social systems too. [Paper](https://bit.ly/information_steward)
+**(Feb 20234)** New paper out on arxiv with insights on opinion and rhetoric expression in online social systems. <br>
+_Main takeaway:_ When there is ideological polarization within a population, ideological institutions (e.g., partisan media) can distort beliefs about the outgroup population to move the expressed opinion to one extreme. Affective polarization is a by-product of this dynamic. In other words, "Institutions matter" - in online social systems too. [Arxiv](https://arxiv.org/abs/2403.06264)
 
 **(Sep 2023)** Attended the NBER Economics of Artificial Intelligence Conference, Fall 2023. Toronto. Canada.
 
