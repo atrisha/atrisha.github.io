@@ -24,6 +24,8 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 News
 =======
 
+**(May 2024)** New paper! Drawing from human social structures of norms and institutions, our new paper shows how to design LLM-based generative agents that have capacity for cooperative behaviour. [Link](https://arxiv.org/abs/2405.19328)
+
 **(Feb 2024)** New paper out on arxiv with insights on opinion and rhetoric expression in online social systems. <br>
 _Main takeaway:_ When there is ideological polarization within a population, ideological institutions (e.g., partisan media) can distort beliefs about the outgroup population to move the expressed opinion to one extreme. Affective polarization is a by-product of this dynamic. In other words, "Institutions matter" - in online social systems too. [Arxiv](https://arxiv.org/abs/2403.06264)
 

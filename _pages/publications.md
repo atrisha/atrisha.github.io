@@ -12,6 +12,8 @@ Publications are organized based on the primary venue. Some cross-cuts multiple 
 
 ### Multiagent Systems (AI):
 
+(Working paper) **Sarkar, A.**, Muresanu, A. I., Blair, C., Sharma, A., Trivedi, R. S., & Hadfield, G. K. (2024). Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation (Version 1). [arXiv.](https://doi.org/10.48550/arXiv.2405.19328)
+
 **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Revealed Multi-Objective Utility Aggregation in Human Driving." arXiv preprint arXiv:2303.07435 *2023 Autononous Agents and Multi-Agent Systems (AAMAS 2023)* (acceptance rate 23%, full paper).
 
 **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Generalized dynamic cognitive hierarchy models for strategic driving behavior." arXiv preprint arXiv:2109.09861 *2022 AAAI Conference on Artificial Intelligence (AAAI 2022)* (acceptance rate 14.2%, main track). 
