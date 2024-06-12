@@ -11,11 +11,13 @@ redirect_from:
 I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
 ) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/)'s group and affiliated with the Vector Institute for Artificial Intelligence.
 
-My research focuses on multi-agent systems, empirical game theory, and other computational methods for safety in AI systems; both at the level of a specific application as well as society. Often this falls under the umbrella of [Cooperative AI](https://arxiv.org/pdf/2012.08630.pdf?utm_medium=referral&utm_source=idealist) spanning the following themes:
+My research focuses on multi-agent systems, empirical game theory, and other computational methods for safety in AI systems; both at the level of a specific application as well as society. This often falls under the umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoric foundations. My past and ongoing research has spanned three interconnected themes:
 
-- Theories of bounded rationality and methods for modelling behaviour for human-AI interactions.
-- Role of norms, beliefs, and information in 'AI and society' (e.g., online social systems)
-- Safety of automated systems that interact with humans (e.g. self-driving cars).
+**Behavioural game theory**: How do we formalize "boundedly rational" human behaviour for automated systems that rely primarily on rational choice and utility-optimizing underpinnings? What safety risks can arise as a consequence of that? 
+
+**Safety validation of autonomous systems**: What new approaches are needed for safety validation that take into account the idiosyncracies, diversity, and unpredictability of human behaviour? 
+
+**Norms and institutions for AI agent design**: How do we design advanced 'AI agents' that are increasingly interacting with our economic, political, and social systems in an unprecedented way? What methodological frameworks are needed for AI agents to safely interact within existing human communities, norms, and institutions that improve welfare and well-being for all?
 
 I received my PhD from David R Cheriton School of Computer Science at the University of Waterloo.  You can check out my thesis [here](https://uwspace.uwaterloo.ca/handle/10012/18751). 
 
