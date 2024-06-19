@@ -11,13 +11,13 @@ redirect_from:
 I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
 ) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/)'s group and affiliated with the Vector Institute for Artificial Intelligence.
 
-My research focuses on multi-agent systems, empirical game theory, and other computational methods for safety in AI systems; both at the level of a specific application as well as society. This often falls under the umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoric foundations. My past and ongoing research has spanned three interconnected themes:
+My research focuses on what I call **human-centric multiagent systems**. This spans areas of multi-agent systems, empirical/behavioural game theory, software engineering and human-robot interaction. Research questions revolve around computational methods for safety in AI systems; both at the level of a specific application as well as society. This is closely connected to the research umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoric foundations. Some specific themes I have explored are as follows:
 
-**Behavioural game theory**: How do we formalize "boundedly rational" human behaviour for automated systems that rely primarily on rational choice and utility-optimizing underpinnings? What safety risks can arise as a consequence of that? 
+**Behavioural game theory**: How do we formalize "boundedly rational" human behaviour for automated systems that rely primarily on rational choice and utility-optimizing underpinnings? What safety risks can arise as a consequence of that? *Sample publications: [1](https://ojs.aaai.org/index.php/AAAI/article/download/16715/16522), [2](https://ojs.aaai.org/index.php/AAAI/article/download/20452/20211), [3](https://arxiv.org/pdf/2109.13367)*
 
-**Safety validation of autonomous systems**: What new approaches are needed for safety validation that take into account the idiosyncracies, diversity, and unpredictability of human behaviour? 
+**Safety validation of autonomous systems**: What new approaches are needed for safety validation that take into account the idiosyncracies, diversity, and unpredictability of human behaviour?  *Sample publications: [1](https://arxiv.org/pdf/1903.01539), [2](https://ieeexplore.ieee.org/abstract/document/9812041), [3](https://ieeexplore.ieee.org/abstract/document/9827035)*
 
-**Norms and institutions for AI agent design**: How do we design advanced 'AI agents' that are increasingly interacting with our economic, political, and social systems in an unprecedented way? What methodological frameworks are needed for AI agents to safely interact within existing human communities, norms, and institutions that improve welfare and well-being for all?
+**Norms and institutions for cooperative AI agents**: How do we design advanced 'AI agents' that are increasingly interacting with our economic, political, and social systems in an unprecedented way? What methodological frameworks are needed for AI agents to safely interact within existing human communities, norms, and institutions that improve welfare and well-being for all? *Sample publications: [1](https://arxiv.org/pdf/2403.06264), [2](https://arxiv.org/pdf/2405.19328)*
 
 I received my PhD from David R Cheriton School of Computer Science at the University of Waterloo.  You can check out my thesis [here](https://uwspace.uwaterloo.ca/handle/10012/18751). 
 
@@ -25,6 +25,8 @@ Prior to starting grad school, I spent eight years working in industry, most of 
 
 News
 =======
+
+**(Summer 2024)** I will be at the following conferences/workshops over the summer: CHAI @ Asilomar, California; SIOE @ UChicago; EC @ Yale. Please feel free to say Hi! if you are attending any of these and would like to chat.
 
 **(May 2024)** New paper! Drawing from human social structures of norms and institutions, our new paper shows how to design LLM-based generative agents that have capacity for cooperative behaviour. [Link](https://arxiv.org/abs/2405.19328)
 
