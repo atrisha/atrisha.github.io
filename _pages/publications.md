@@ -12,7 +12,9 @@ Publications are organized based on the primary venue. Some cross-cuts multiple 
 
 ### Multiagent Systems (AI):
 
-(Working paper) **Sarkar, A.**, Muresanu, A. I., Blair, C., Sharma, A., Trivedi, R. S., & Hadfield, G. K. (2024). Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation (Version 1). [arXiv.](https://doi.org/10.48550/arXiv.2405.19328)
+(Working paper) **Sarkar, A.**, Muresanu, A. I., Blair, C., Sharma, A., Trivedi, R. S., & Hadfield, G. K. (2024). Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation (Version 1). *Foundation Models and Game Theor at EC 2024* [arXiv.](https://doi.org/10.48550/arXiv.2405.19328)
+
+(Working paper) Rakshit Trivedi, Nikhil Chandak, Carter Blair, **Atrisha Sarkar**, Tehilla Weltman, Dylan Hadfield-Menell, Gillian K Hadfield. Altared Environments: The Role of Normative Infrastructure in AI Alignment *Agentic Markets Workshop at ICML 2024* [paper](https://openreview.net/pdf?id=LQij5Ur77H)
 
 **Sarkar, Atrisha**, Kate Larson, and Krzysztof Czarnecki. "Revealed Multi-Objective Utility Aggregation in Human Driving." arXiv preprint arXiv:2303.07435 *2023 Autononous Agents and Multi-Agent Systems (AAMAS 2023)* (acceptance rate 23%, full paper).
 
