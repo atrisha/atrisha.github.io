@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
-) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/)'s group and affiliated with the Vector Institute for Artificial Intelligence.
+I am a postdoctoral fellow (until Sept'24) at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
+) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/)'s group and research associate with the Vector Institute for Artificial Intelligence (until Dec'24).
 
 My research focuses on **human-centric multiagent systems**. This spans areas of multi-agent systems, empirical/behavioural game theory, software engineering and human-robot interaction. I am also interested in computational methods for safety in AI systems; both at the level of a specific application as well as society. This is closely connected to the research umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoretic foundations. Some specific themes I have explored are as follows:
 
