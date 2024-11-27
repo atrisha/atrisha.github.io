@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*Starting January 2025, I will be joining as an Tenure-track Assistant Professor in the Department of Electrical and Computer Engineering at the University of Western Ontario, Canada.*
 
-I am a postdoctoral fellow (until Sept'24) at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca
-) at the University of Toronto in [Prof. Gillian Hadfield](https://vectorinstitute.ai/team/gillian-k-hadfield/)'s group and research associate with the Vector Institute for Artificial Intelligence (until Dec'24).
 
 My research focuses on **human-centric multiagent systems**. This spans areas of multi-agent systems, empirical/behavioural game theory, software engineering and human-robot interaction. I am also interested in computational methods for safety in AI systems; both at the level of a specific application as well as society. This is closely connected to the research umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoretic foundations. Some specific themes I have explored are as follows:
 
@@ -19,12 +18,16 @@ My research focuses on **human-centric multiagent systems**. This spans areas of
 
 **Norms and institutions for cooperative AI agents**: How do we design advanced 'AI agents' that are increasingly interacting with our economic, political, and social systems in an unprecedented way? What methodological frameworks are needed for AI agents to safely interact within existing human communities, norms, and institutions that improve welfare and well-being for all? *Sample publications: [1](https://arxiv.org/pdf/2403.06264), [2](https://arxiv.org/pdf/2405.19328)*
 
-I received my PhD from David R Cheriton School of Computer Science at the University of Waterloo.  You can check out my thesis [here](https://uwspace.uwaterloo.ca/handle/10012/18751). 
+
+I received my PhD from the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, where I was supervised by [Prof. Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) and worked closely with [Prof. Kate Larson](https://en.wikipedia.org/wiki/Kate_Larson_(computer_scientist)). Following this, I was a postdoctoral fellow for two years at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca) at the University of Toronto in [Prof. Gillian Hadfield](https://en.wikipedia.org/wiki/Gillian_Hadfield)'s group, and I also served as a research associate with the Vector Institute for Artificial Intelligence.
+
 
 Prior to starting grad school, I spent eight years working in industry, most of which was at IBM Software Labs in India.
 
 News
 =======
+
+**(Career update)**: Joining as a TT faculty in the Department of Electrical and Computer Engineering at Western Univeristy starting Jan, 2025.
 
 **(Summer 2024)** I will be at the following conferences/workshops over the summer: CHAI @ Asilomar, California; SIOE @ UChicago; EC @ Yale. Please feel free to say Hi! if you are attending any of these and would like to chat.
 
