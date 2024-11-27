@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*Starting January 2025, I will be joining as an Tenure-track Assistant Professor in the Department of Electrical and Computer Engineering at the University of Western Ontario, Canada.*
+*Starting January 2025, I will be joining as a Tenure-track Assistant Professor in the Department of Electrical and Computer Engineering at the University of Western Ontario, Canada.*
 
 
 My research focuses on **human-centric multiagent systems**. This spans areas of multi-agent systems, empirical/behavioural game theory, software engineering and human-robot interaction. I am also interested in computational methods for safety in AI systems; both at the level of a specific application as well as society. This is closely connected to the research umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoretic foundations. Some specific themes I have explored are as follows:
