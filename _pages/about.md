@@ -1,31 +1,34 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-*Starting January 2025, I will be joining as a Tenure-track Assistant Professor in the Department of Electrical and Computer Engineering at the University of Western Ontario, Canada.*
+***Note:** Starting January 2025, I will be joining as a Tenure-track Assistant Professor in the Department of Electrical and Computer Engineering at Western University, Canada.*
 
+## **Research theme**
 
-My research focuses on **human-centric multiagent systems**. This spans areas of multi-agent systems, empirical/behavioural game theory, software engineering and human-robot interaction. I am also interested in computational methods for safety in AI systems; both at the level of a specific application as well as society. This is closely connected to the research umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoretic foundations. Some specific themes I have explored are as follows:
+My research focuses on **human-centric multiagent systems**. This spans areas of multi-agent systems, empirical/behavioural game theory, software engineering and human-robot interaction. I am also interested in computational methods for safety in AI systems; both at the level of a specific application as well as society. This is closely connected to the research umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoretic foundations. Some specific themes are as follows:
 
 **Behavioural game theory**: How do we formalize "boundedly rational" human behaviour for automated systems that rely primarily on rational choice and utility-optimizing underpinnings? What safety risks can arise as a consequence of that? *Sample publications: [1](https://ojs.aaai.org/index.php/AAAI/article/download/16715/16522), [2](https://ojs.aaai.org/index.php/AAAI/article/download/20452/20211), [3](https://arxiv.org/pdf/2109.13367)*
 
-**Safety validation of autonomous systems**: What new approaches are needed for safety validation that take into account the idiosyncracies, diversity, and unpredictability of human behaviour?  *Sample publications: [1](https://arxiv.org/pdf/1903.01539), [2](https://ieeexplore.ieee.org/abstract/document/9812041), [3](https://ieeexplore.ieee.org/abstract/document/9827035)*
+**Formal verification/validation of human-agent interactions**: What new approaches are needed for safety validation that account for the idiosyncrasies, diversity, and unpredictability of human behavior? Furthermore, as AI agents increasingly interact with our economic, political, and social systems in unprecedented ways, what methodological frameworks are required for ensuring safe human-agent interactions at both micro and macro levels? *Sample publications: [1](https://arxiv.org/pdf/1903.01539), [2](https://ieeexplore.ieee.org/abstract/document/9812041), [3](https://ieeexplore.ieee.org/abstract/document/9827035)*
 
-**Norms and institutions for cooperative AI agents**: How do we design advanced 'AI agents' that are increasingly interacting with our economic, political, and social systems in an unprecedented way? What methodological frameworks are needed for AI agents to safely interact within existing human communities, norms, and institutions that improve welfare and well-being for all? *Sample publications: [1](https://arxiv.org/pdf/2403.06264), [2](https://arxiv.org/pdf/2405.19328)*
+**AI-driven Social simulation for policy making**: How can we design AI-based simulation methods to assist institutions in addressing the scale and complexity of social policymaking? *Sample publications: [1](https://arxiv.org/pdf/2403.06264), [2](https://arxiv.org/pdf/2405.19328)*
 
+---
+
+## Bio
 
 I received my PhD from the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, where I was supervised by [Prof. Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) and worked closely with [Prof. Kate Larson](https://en.wikipedia.org/wiki/Kate_Larson_(computer_scientist)). Following this, I was a postdoctoral fellow for two years at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca) at the University of Toronto in [Prof. Gillian Hadfield](https://en.wikipedia.org/wiki/Gillian_Hadfield)'s group, and I also served as a research associate with the Vector Institute for Artificial Intelligence.
 
+Prior to starting grad school, I spent eight years working in industry.
 
-Prior to starting grad school, I spent eight years working in industry, most of which was at IBM Software Labs in India.
+---
+# News
 
-News
-=======
 
 **(Career update)**: Joining as a TT faculty in the Department of Electrical and Computer Engineering at Western Univeristy starting Jan, 2025.
 
