@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Atrisha Sarkar"
 title_separator          : "-"
 name                     : &name "Atrisha Sarkar"
-description              : &description "Postdoctoral fellow at Schwartz Reisman Institute for Technology and Society, University of Toronto"
+description              : &description " "
 url                      : https://atrisha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atrisha/atrisha.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Atrisha Sarkar, PhD. <br> (she/her)"
   avatar           : "profile.png"
-  bio              : "	Postdoctoral fellow <br> Schwartz Reisman Institute for Technology and Society <br> University of Toronto"
+  bio              : "	"
   location         : "Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
