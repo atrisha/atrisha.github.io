@@ -22,7 +22,7 @@ My research focuses on **human-centric multiagent systems**. This spans areas of
 
 ## Bio
 
-I received my PhD from the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, where I was supervised by [Prof. Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) and worked closely with [Prof. Kate Larson](https://en.wikipedia.org/wiki/Kate_Larson_(computer_scientist)). Following this, I was a postdoctoral fellow for two years at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca) at the University of Toronto in [Prof. Gillian Hadfield](https://en.wikipedia.org/wiki/Gillian_Hadfield)'s group, and I also served as a research associate with the Vector Institute for Artificial Intelligence.
+I received my PhD from the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, where I was supervised by [Prof. Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) and worked closely with [Prof. Kate Larson](https://en.wikipedia.org/wiki/Kate_Larson_(computer_scientist)). Following this, I was a postdoctoral fellow for two years at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca) at the University of Toronto in [Prof. Gillian Hadfield](https://en.wikipedia.org/wiki/Gillian_Hadfield)'s group and a research associate with the Vector Institute for Artificial Intelligence.
 
 Prior to starting grad school, I spent eight years working in industry.
 
