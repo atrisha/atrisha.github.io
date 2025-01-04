@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+*Western University:*
+
+**(Winter 2025)** SE 3313 (Sec 1&2) Operating Systems for Software Engineering.
+
+*University of Waterloo:*
 
 **(Fall 2021)** Co-instructed the Fall ethics workshop for Masters in Data Science and AI students with Prof. Maura Grossman.
 
