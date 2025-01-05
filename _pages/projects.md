@@ -43,19 +43,22 @@ author_profile: true
   <p>Generative agents, which implement behaviors using a large language model (LLM) to interpret and evaluate an environment, has demonstrated the capacity to solve complex tasks across many social and technological domains. However, when these agents interact with other agents and humans in presence of social structures such as existing norms, fostering cooperation between them is a fundamental challenge. In this paper, we develop the framework of a 'Normative Module': an architecture designed to enhance cooperation by enabling agents to recognize and adapt to the normative infrastructure of a given environment. We focus on the equilibrium selection aspect of the cooperation problem and inform our agent design based on the existence of classification institutions that implement correlated equilibrium to provide effective resolution of the equilibrium selection problem. Specifically, the normative module enables agents to learn through peer interactions which of multiple candidate institutions in the environment, does a group treat as authoritative. By enabling normative competence in this sense, agents gain ability to coordinate their sanctioning behaviour; coordinated sanctioning behaviour in turn shapes primary behaviour within a social environment, leading to higher average welfare. We design a new environment that supports institutions and evaluate the proposed framework based on two key criteria derived from agent interactions with peers and institutions: (i) the agent's ability to disregard non-authoritative institutions and (ii) the agent's ability to identify authoritative institutions among several options. We show that these capabilities allow the agent to achieve more stable cooperative outcomes compared to baseline agents without the normative module, paving the way for research in a new avenue of designing environments and agents that account for normative infrastructure.</p>
   </div>
 </div>
+
+
+
+<h1>Completed</h1>
+
 <h2>Informal institutions and polarization in online social systems</h2>
 
 <div class="row">
   <div class="column2" style="background-color:#FFFFFF;">
-<a href="https://bit.ly/information_steward">Working paper</a>
+<a href="https://arxiv.org/pdf/2403.06264">Paper</a>
   </div>
   <div class="column1" style="background-color:#FFFFFF;">
   <p>Although there is mounting empirical evidence for the increase in affective polarization, few mechanistic models can explain its emergence at the population level. The question of how such a phenomenon can emerge from divergent opinions of a population on an ideological issue is still an open issue. In this paper, we establish that human normativity, that is, individual expression of normative opinions based on beliefs about the population, can lead to population-level polarization when ideological institutions distort beliefs in accordance with their objective of moving expressed opinion to one extreme. Using a game-theoretic model, we establish that individuals with more extreme opinions will have more extreme rhetoric and higher misperceptions about their outgroup members. Our model also shows that when social recommendation systems mediate institutional signals, we can observe the formation of different institutional communities, each with its unique community structure and characteristics. Using the model, we identify practical strategies platforms can implement, such as reducing exposure to signals from ideological institutions and a tailored approach to content moderation, both of which can rectify the affective polarization problem within its purview.</p>
   </div>
 </div>
 
-
-<h1>Completed</h1>
 <h2>A generalized cognitive hierarchy model for dynamic games</h2>
 
 <div class="row">

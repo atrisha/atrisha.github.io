@@ -6,24 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
----
-## Research theme
-
-My research focuses on **human-centric multiagent systems**. This spans areas of multi-agent systems, empirical/behavioural game theory, software engineering and human-robot interaction. I am also interested in computational methods for safety in AI systems; both at the level of a specific application as well as society. This is closely connected to the research umbrella of Cooperative AI, which bridges together artificial intelligence with game-theoretic foundations. Some specific themes are as follows:
+I am an Assistant Professor in the Department of Electrical and Computer Engineering at Western University, Canada. My research focuses on **human-centric multiagent systems**, combining methods from empirical/behavioral game theory, software engineering, and human-robot interaction. The goal is to design automated AI systems that prioritize safety and reliability across specific applications, individual users, and society as a whole. Key themes of my work include:
 
 **Behavioural game theory**: How do we formalize "boundedly rational" human behaviour for automated systems that rely primarily on rational choice and utility-optimizing underpinnings? What safety risks can arise as a consequence of that? *Sample publications: [1](https://ojs.aaai.org/index.php/AAAI/article/download/16715/16522), [2](https://ojs.aaai.org/index.php/AAAI/article/download/20452/20211), [3](https://arxiv.org/pdf/2109.13367)*
 
 **Formal verification/validation of human-agent interactions**: What new approaches are needed for safety validation that account for the idiosyncrasies, diversity, and unpredictability of human behavior? Furthermore, as AI agents increasingly interact with our economic, political, and social systems in unprecedented ways, what methodological frameworks are required for ensuring safe human-agent interactions at both micro and macro levels? *Sample publications: [1](https://arxiv.org/pdf/1903.01539), [2](https://ieeexplore.ieee.org/abstract/document/9812041), [3](https://ieeexplore.ieee.org/abstract/document/9827035)*
 
-**AI-driven Social simulation for policy making**: How can we design AI-based simulation methods to assist institutions in addressing the scale and complexity of social policymaking? *Sample publications: [1](https://arxiv.org/pdf/2403.06264), [2](https://arxiv.org/pdf/2405.19328)*
+**AI-driven social simulation for policy making**: How can we design AI-based simulation methods to assist institutions in addressing the scale and complexity of social policymaking? *Sample publications: [1](https://arxiv.org/pdf/2403.06264), [2](https://arxiv.org/pdf/2405.19328)*
 
 ---
 
 ## Bio
 
 I received my PhD from the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, where I was supervised by [Prof. Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) and worked closely with [Prof. Kate Larson](https://en.wikipedia.org/wiki/Kate_Larson_(computer_scientist)). Following this, I was a postdoctoral fellow for two years at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca) at the University of Toronto in [Prof. Gillian Hadfield](https://en.wikipedia.org/wiki/Gillian_Hadfield)'s group and a research associate with the Vector Institute for Artificial Intelligence.
-
 Prior to starting grad school, I spent eight years working in industry.
 
 ---
