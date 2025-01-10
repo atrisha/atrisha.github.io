@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Atrisha Sarkar, PhD. <br> (she/her)"
   avatar           : "profile.png"
-  bio              : " Assistant Professor <br> Dept. of Elec. and Computer Engineering <br> Western University,  Canada	"
+  bio              : " Assistant Professor <br> Dept. of Elec. and Computer Engineering <br> Western University,  Canada <br><br> Faculty Affiliate <br> Schwartz Reismann Institute for Technology and Society	"
   location         : "Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Yj62hNYAAAAJ&hl=en"
-  email            : "atrisha [dot] sarkar [at] utoronto.ca"
+  email            : "asarka27 [at] uwo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   gitlab           : "a9sarkar"
