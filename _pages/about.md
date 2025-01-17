@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the Department of Electrical and Computer Engineering at [Western University](https://uwo.ca), Canada and a Faculty Affiliate at [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). My research focuses on **human-centric multiagent systems**, combining methods from empirical/behavioral game theory, software engineering, and human-robot interaction. The goal is to design automated AI systems that prioritize safety and reliability across specific applications, individual users, and society as a whole. Key themes of my work include:
+I am an Assistant Professor in the Department of Electrical and Computer Engineering at [Western University](https://uwo.ca), Canada and a Faculty Affiliate at [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). My research focuses on **human-centric multiagent systems**, combining methods from empirical/behavioral game theory, software engineering, human-AI and human-robot interaction. The goal of this research is to design automated AI systems that prioritize safety and reliability in specific applications, ultimately ensuring the well-being of individual users and society as a whole. Key themes of my work include:
 
 **Behavioural game theory**: How do we formalize "boundedly rational" human behaviour for automated systems that rely primarily on rational choice and utility-optimizing underpinnings? What safety risks can arise as a consequence of that? *Sample publications: [1](https://ojs.aaai.org/index.php/AAAI/article/download/16715/16522), [2](https://ojs.aaai.org/index.php/AAAI/article/download/20452/20211), [3](https://arxiv.org/pdf/2109.13367)*
 
@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Electrical and Computer Enginee
 
 **AI-driven social simulation for policy making**: How can we design AI-based simulation methods to assist institutions in addressing the scale and complexity of social policymaking? *Sample publications: [1](https://arxiv.org/pdf/2403.06264), [2](https://arxiv.org/pdf/2405.19328)*
 
-#### *I am currently recruiting graduate students (Masters) to work on the above mentioned areas. Familiarity with preliminary literature on multiagent systems is an advantage. Please email me if you are interested in pursuing graduate program at Western.*
+#### *I am currently recruiting graduate students (Domestic Masters or exceptional international PhD) to work on the above mentioned areas. Familiarity with preliminary literature on multiagent systems is an advantage. Please email me with a research statement and CV if you are interested in pursuing graduate program at Western.*
 ---
 
 ## Bio
