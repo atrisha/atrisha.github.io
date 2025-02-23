@@ -7,7 +7,7 @@ author_profile: true
 Publications are organized based on the primary venue. Some cross-cuts multiple areas.
 ### Economics + AI:
 
-(Working paper) **Sarkar, Atrisha**, Gillian K. Hadfield. "Normative institutions and opinion expression stewarding", *Earlier version presented at Society for Institutional and Organizational Economics (SIOE) 2023*. [Arxiv](https://arxiv.org/abs/2403.06264)
+**Sarkar, Atrisha**, Gillian K. Hadfield. "Rational Silence and False Polarization: How Viewpoint Organizations and Recommender Systems Distort the Expression of Public Opinion", * Under Review; Earlier version presented at Society for Institutional and Organizational Economics (SIOE) 2023*. [Arxiv](https://arxiv.org/abs/2403.06264)
 
 
 ### Multiagent Systems (AI):
