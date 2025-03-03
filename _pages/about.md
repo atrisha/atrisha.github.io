@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Electrical and Computer Enginee
 
 **AI-based simulation for social and economic decision-making:**: The advancement of large language model (LLM)-based generative agents has opened the door in behavioural sciences to study social behaviour by running experiments in simulated environments where micro and macro-level human behaviour can be simulated through LLM cognitive agents. This line of research deals with the methodological questions around generative agent-based modelling for social and economic decision-making.
 
-### *I am currently recruiting graduate students (Domestic Masters or exceptional international PhD) to work on the above mentioned areas. Students from all backgrounds are encouraged to apply. Familiarity with preliminary literature on multiagent systems is an advantage. Please email me with a research statement and CV if you are interested in pursuing graduate program at Western.*
+### *I am currently recruiting graduate students (Masters and PhD) to work on the above mentioned areas. Students from all backgrounds are encouraged to apply. Familiarity with preliminary literature on multiagent systems is an advantage. Please email me with a research statement and CV if you are interested in pursuing research-based fully funded graduate program at Western.*
 ---
 
 ## Bio
@@ -24,6 +24,7 @@ Prior to starting grad school, I spent eight years working in industry.
 
 ---
 # News
+
 
 
 **(Career update)**: Joining as a TT faculty in the Department of Electrical and Computer Engineering at Western Univeristy starting Jan, 2025.
