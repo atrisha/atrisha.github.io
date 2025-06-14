@@ -6,26 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in the Department of Electrical and Computer Engineering at [Western University](https://uwo.ca), Canada and a Faculty Affiliate at [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). My research focuses on **human-centric multiagent systems**, combining methods from empirical/behavioral game theory, software engineering, human-AI and human-robot interaction. The goal of this research is to design automated AI systems that prioritize safety and reliability in specific applications, ultimately ensuring the well-being of individual users and society as a whole. Key themes of my work include:
-
-**Behavioural and Empirical game theory**: How do we formalize "boundedly rational" human behaviour for automated systems that rely primarily on rational choice and utility-optimizing underpinnings? What safety risks can arise as a consequence of that? *Sample publications: [1](https://ojs.aaai.org/index.php/AAAI/article/download/16715/16522), [2](https://ojs.aaai.org/index.php/AAAI/article/download/20452/20211), [3](https://arxiv.org/pdf/2109.13367)*
-
-**Formal verification/validation of autonomous vehicles and human-AI interactions**: What new approaches are needed for safety validation that account for the idiosyncrasies, diversity, and unpredictability of human behavior? Furthermore, as autonomous agents become increasingly common, what methodological frameworks are required for ensuring safe human-AI interactions? *Sample publications:  [1](https://ieeexplore.ieee.org/abstract/document/9812041), [2](https://ieeexplore.ieee.org/abstract/document/9827035)*
-
-**AI-based simulation for social and economic decision-making:**: The advancement of large language model (LLM)-based generative agents has opened the door in behavioural sciences to study social behaviour by running experiments in simulated environments where micro and macro-level human behaviour can be simulated through LLM cognitive agents. This line of research deals with the methodological questions around generative agent-based modelling for social and economic decision-making. *Sample publications: [1](https://arxiv.org/pdf/2405.19328)*
-
-### *I am currently recruiting graduate students (Masters and PhD) to work on the above mentioned areas. Students from all backgrounds are encouraged to apply. Familiarity with preliminary literature on multiagent systems is an advantage. Please email me with a research statement and CV if you are interested in pursuing research-based fully funded graduate program at Western.*
----
-
-## Short Bio
-
-I received my PhD from the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo, where I was supervised by [Prof. Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) and worked closely with [Prof. Kate Larson](https://en.wikipedia.org/wiki/Kate_Larson_(computer_scientist)). During this time, I was part of the team behind one of the first self-driving cars on Canadian roads (autonomoose). Following this, I was a postdoctoral fellow for two years at the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca) at the University of Toronto in [Prof. Gillian Hadfield](https://en.wikipedia.org/wiki/Gillian_Hadfield)'s group and a research associate with the Vector Institute for Artificial Intelligence.
-Prior to starting grad school, I spent eight years working in industry.
+Atrisha Sarkar heads the [Humans and Autonomous Agents Lab](https://www.uwoagentslab.ca) at Western University. She is an Assistant Professor in the Department of Electrical and Computer Engineering at [Western University](https://uwo.ca), Canada and a Faculty Affiliate at [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). Her research focuses on **human-centric multiagent systems**, combining methods from empirical/behavioral game theory, software engineering, human-AI and human-robot interaction. The goal of this research is to design automated AI systems that prioritize safety and reliability in specific applications, ultimately ensuring the well-being of individual users and society as a whole.
 
 ---
 # News
 
-
+**(Career update)**: New lab website launched for [Humans and Autonomous Agents Lab](https://www.uwoagentslab.ca)
 
 **(Career update)**: Joining as a TT faculty in the Department of Electrical and Computer Engineering at Western Univeristy starting Jan, 2025.
 
