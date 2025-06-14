@@ -11,7 +11,7 @@ Atrisha Sarkar heads the [Humans and Autonomous Agents Lab](https://www.uwoagent
 ---
 # News
 
-**(Career update)**: New lab website launched for [Humans and Autonomous Agents Lab](https://www.uwoagentslab.ca)
+**(June 2025)**: New lab website launched for [Humans and Autonomous Agents Lab](https://www.uwoagentslab.ca)
 
 **(Career update)**: Joining as a TT faculty in the Department of Electrical and Computer Engineering at Western Univeristy starting Jan, 2025.
 
