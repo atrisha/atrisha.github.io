@@ -9,7 +9,8 @@ redirect_from:
 Atrisha Sarkar heads the [Humans and Autonomous Agents Lab](https://www.uwoagentslab.ca) at Western University. She is an Assistant Professor in the Department of Electrical and Computer Engineering (Software Engineering) at [Western University](https://uwo.ca), Canada, faculty member of the [The Rotman Institute of Philosophy](https://www.rotman.uwo.ca/), and a Faculty Affiliate at [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca). Her research focuses on **human-centric multiagent systems**, combining methods from empirical/behavioral game theory, software engineering, human-AI and human-robot interaction. The goal of this research is to design automated AI systems that prioritize safety and reliability in AI-based applications, ultimately ensuring the well-being of individual users and society as a whole.
 
 ---
-# News
+# Updates
+**(Aug 2025)**: Glad to serve PC:AAAI'26, SPC:AAMAS'26.
 
 **(June 2025)**: New lab website launched for [Humans and Autonomous Agents Lab](https://www.uwoagentslab.ca)
 
